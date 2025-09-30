@@ -3,4 +3,6 @@
 При запуске немного подождите, что бы гринскрин обрезался
 ПРОГРАММА РАБОТАЕТ !ТОЛЬКО! НА СИСТЕМНЫЙ ЗВУК, НА МИКРОФОН НЕТ
 
-[Release](https://www.dropbox.com/scl/fi/1nad0fixir0w7bvv0ygo8/.exe?rlkey=y9e5fmsrrwywysoon80jijxh4&st=bnz8fbav&dl=1)
+!Программа работает НЕСТАБИЛЬНО, ЛАГАЕТ, и еще венок всякого говна, пожайлуста не бейте палкой я постараюсь когда то вывести ее из беты!
+
+[BETA](https://www.dropbox.com/scl/fi/1nad0fixir0w7bvv0ygo8/.exe?rlkey=y9e5fmsrrwywysoon80jijxh4&st=bnz8fbav&dl=1)
